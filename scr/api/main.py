@@ -3,7 +3,7 @@ FastAPI Application for Energy Consumption Forecasting
 
 This module implements a REST API using FastAPI for energy consumption forecasting.
 
-Author: Your Name
+Author: Travis Miragliotta
 Date: May 2025
 """
 
