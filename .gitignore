@@ -1,0 +1,19 @@
+project/
+├── data/
+│   ├── raw/
+│   └── processed/
+├── notebooks/
+├── src/
+│   ├── api/
+│   ├── models/
+│   ├── logging/
+│   ├── monitoring/
+│   └── data_ingestion.py
+├── tests/
+│   ├── test_api.py
+│   ├── test_model.py
+│   ├── test_logging.py
+│   └── run_tests.py
+├── Dockerfile
+├── requirements.txt
+└── README.md
